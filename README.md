@@ -155,9 +155,15 @@
 
 #### 孙元康
 
+<img width="300" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/6282a856-0c60-4aa8-a83a-84f8091264ee.png" />
+
 #### 王宇轩
 
+<img width="300" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/0f3021a7-de33-4bb6-8210-e19e7691d749.png" />
+
 #### 王常兴
+
+<img width="300" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/7f534ff2-5169-4aa5-860a-16db319ff386.png" />
 
 ---
 
