@@ -105,33 +105,33 @@
 
 ### 1.登录界面
 
-<img width="582" height="441" alt="QQ20260702-161308" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161308.png" />
+<img width="300" alt="QQ20260702-161308" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161308.png" />
 
  
 ### 2.主聊天界面（私聊）
 
-<img width="1557" height="1041" alt="QQ20260702-161407" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161407.png" />
+<img width="300" alt="QQ20260702-161407" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161407.png" />
 
 
 ### 3.文件传输卡片
 
-<img width="636" height="122" alt="QQ20260702-161538" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161538.png" />
+<img width="300"  alt="QQ20260702-161538" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161538.png" />
 
 
 ### 4.个人主页修改资料
 
-<img width="432" height="516" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161608.png" />
+<img width="300" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161608.png" />
 
 
 ### 5.群成员查看及复制 ID
-<img width="362" height="108" alt="QQ20260702-161648" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161648.png" />
+<img width="300" alt="QQ20260702-161648" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161648.png" />
 
-<img width="523" height="465" alt="QQ20260702-161745" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161745.png" />
+<img width="300" alt="QQ20260702-161745" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161745.png" />
 
 
 ### 6.消息发送效果
 
-<img width="1557" height="1041" alt="QQ20260702-161811" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161811.png" />
+<img width="300"  alt="QQ20260702-161811" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161811.png" />
 
 
 ---
