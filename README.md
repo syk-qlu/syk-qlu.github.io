@@ -105,34 +105,39 @@
 
 ### 1.登录界面
 
-<img width="582" height="441" alt="Image" src="https://github.com/user-attachments/assets/fce02a3c-64fe-4266-9b78-310d8692b74a" />
+<img width="582" height="441" alt="QQ20260702-161308" src="https://github.com/user-attachments/assets/1b8456e5-a651-4511-aa0d-d4067e527826" />
 
  
 ### 2.主聊天界面（私聊）
 
-<img width="1557" height="1041" alt="Image" src="https://github.com/user-attachments/assets/5ceff3c2-fe53-49ff-9108-62de8c91bd63" />
+<img width="1557" height="1041" alt="QQ20260702-161407" src="https://github.com/user-attachments/assets/7906c26c-e014-4aef-af82-82624149d711" />
+
 
 ### 3.群聊界面
 
-<img width="1557" height="1041" alt="Image" src="https://github.com/user-attachments/assets/ead841c0-b4a5-41a8-8f0e-4b67972ff9ae" />
+<img width="366" height="908" alt="image" src="https://github.com/user-attachments/assets/aaf23391-c44a-41c0-aa56-0a946c22c97d" />
+
 
 ### 4.文件传输卡片
 
-<img width="672" height="124" alt="Image" src="https://github.com/user-attachments/assets/54bc2d1b-c4f4-4820-a045-7f5ed098d892" />
+<img width="636" height="122" alt="QQ20260702-161538" src="https://github.com/user-attachments/assets/f1a23619-576a-4a0e-bfa0-5b6d4f8521cf" />
+
 
 ### 5.个人主页修改资料
 
-<img width="432" height="516" alt="Image" src="https://github.com/user-attachments/assets/e2118856-cb1f-48b2-9573-a7a17a592949" />
+<img width="432" height="516" alt="QQ20260702-161608" src="https://github.com/user-attachments/assets/696bd1dc-e71f-47f8-8b3d-4b165a5fb886" />
+
 
 ### 6.群成员查看及复制 ID
+<img width="362" height="108" alt="QQ20260702-161648" src="https://github.com/user-attachments/assets/c4c6beef-3156-4d42-b3c4-8b7794e7fd1b" />
 
-<img width="369" height="121" alt="Image" src="https://github.com/user-attachments/assets/d38ddb0f-119e-4ba0-81d8-5459b1a2cce5" />
+<img width="523" height="465" alt="QQ20260702-161745" src="https://github.com/user-attachments/assets/757622f5-c4bd-4ada-8543-9d088e19f2c8" />
 
-<img width="523" height="465" alt="Image" src="https://github.com/user-attachments/assets/669faff9-e198-44b5-92e6-0c3b8f727518" />
 
 ### 7.消息发送效果
 
-<img width="1557" height="1041" alt="Image" src="https://github.com/user-attachments/assets/3b40590b-20e7-48ed-97da-f8b46d7b4f73" />
+<img width="1557" height="1041" alt="QQ20260702-161811" src="https://github.com/user-attachments/assets/a77fa1e4-0174-47e8-ae09-84c6b45ca63b" />
+
 
 ---
 
