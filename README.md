@@ -105,38 +105,33 @@
 
 ### 1.登录界面
 
-<img width="582" height="441" alt="QQ20260702-161308" src="https://github.com/user-attachments/assets/1b8456e5-a651-4511-aa0d-d4067e527826" />
+<img width="582" height="441" alt="QQ20260702-161308" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161308.png" />
 
  
 ### 2.主聊天界面（私聊）
 
-<img width="1557" height="1041" alt="QQ20260702-161407" src="https://github.com/user-attachments/assets/7906c26c-e014-4aef-af82-82624149d711" />
+<img width="1557" height="1041" alt="QQ20260702-161407" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161407.png" />
 
 
-### 3.群聊界面
+### 3.文件传输卡片
 
-<img width="366" height="908" alt="image" src="https://github.com/user-attachments/assets/aaf23391-c44a-41c0-aa56-0a946c22c97d" />
-
-
-### 4.文件传输卡片
-
-<img width="636" height="122" alt="QQ20260702-161538" src="https://github.com/user-attachments/assets/f1a23619-576a-4a0e-bfa0-5b6d4f8521cf" />
+<img width="636" height="122" alt="QQ20260702-161538" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161538.png" />
 
 
-### 5.个人主页修改资料
+### 4.个人主页修改资料
 
-<img width="432" height="516" alt="QQ20260702-161608" src="https://github.com/user-attachments/assets/696bd1dc-e71f-47f8-8b3d-4b165a5fb886" />
-
-
-### 6.群成员查看及复制 ID
-<img width="362" height="108" alt="QQ20260702-161648" src="https://github.com/user-attachments/assets/c4c6beef-3156-4d42-b3c4-8b7794e7fd1b" />
-
-<img width="523" height="465" alt="QQ20260702-161745" src="https://github.com/user-attachments/assets/757622f5-c4bd-4ada-8543-9d088e19f2c8" />
+<img width="432" height="516" alt="QQ20260702-161608" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161608.png" />
 
 
-### 7.消息发送效果
+### 5.群成员查看及复制 ID
+<img width="362" height="108" alt="QQ20260702-161648" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161648.png" />
 
-<img width="1557" height="1041" alt="QQ20260702-161811" src="https://github.com/user-attachments/assets/a77fa1e4-0174-47e8-ae09-84c6b45ca63b" />
+<img width="523" height="465" alt="QQ20260702-161745" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161745.png" />
+
+
+### 6.消息发送效果
+
+<img width="1557" height="1041" alt="QQ20260702-161811" src="https://raw.githubusercontent.com/syk-qlu/syk-qlu.github.io/refs/heads/main/images/QQ20260702-161811.png" />
 
 
 ---
@@ -146,8 +141,8 @@
 | 成员 | 角色 | 负责模块 | 核心源代码文件 | 代码行数 |
 |------|------|----------|----------------|----------|
 | **孙元康** (组长) | 服务端 & 通信 & 业务逻辑 | 1. 服务端通信框架搭建<br>2. 客户端网络通信<br>3. 消息协议定义及序列化<br>4. 私聊/群聊/文件消息处理（含数据库存储）<br>5. 数据库表设计<br>6. 消息显示及发送逻辑（部分UI） | ChatServer.java, ClientHandler.java, ChatClient.java, ChatMessage.java, MessageProtocol.java, ChatService.java (部分), MessageBubblePanel.java, ChatBubble.java, ChatFrame.java (消息发送/显示) | 约 1550 |
-| **组员 A** | 客户端 UI 及界面交互 | 1. 主界面框架布局<br>2. 好友列表面板及好友Item组件<br>3. 群组列表面板及群Item组件<br>4. 登录及注册界面<br>5. 文件/图片发送对话框<br>6. 自定义滚动条及平滑滚动 <br>7.主页面按键交互（左侧导航栏）| ChatFrame.java (整体布局), ContactListPane.java, ContactItem.java, GroupListPane.java, GroupItem.java, LoginFrame.java, FileTransferDialog.java, ScrollBarUI.java, SmoothScroll.java | 约 1300 |
-| **组员 B** | 数据层 & 工具类 | 1. 实体模型类设计<br>2. 数据库连接管理<br>3. 用户、好友、群组、消息的 DAO 实现<br>4. 图片头像工具类、文件工具类、日期工具类封装<br>5. 界面常量配置 | User.java, Group.java, Message.java, FriendRequest.java, ChatMessage.java (部分), DBConnection.java, UserDAO.java, FriendshipDAO.java, GroupDAO.java, MessageDAO.java, ImageUtil.java, FileUtil.java, DateUtil.java, Constants.java | 约 1500 |
+| **王宇轩** | 客户端 UI 及界面交互 | 1. 主界面框架布局<br>2. 好友列表面板及好友Item组件<br>3. 群组列表面板及群Item组件<br>4. 登录及注册界面<br>5. 文件/图片发送对话框<br>6. 自定义滚动条及平滑滚动 <br>7.主页面按键交互（左侧导航栏）| ChatFrame.java (整体布局), ContactListPane.java, ContactItem.java, GroupListPane.java, GroupItem.java, LoginFrame.java, FileTransferDialog.java, ScrollBarUI.java, SmoothScroll.java | 约 1300 |
+| **王常兴** | 数据层 & 工具类 | 1. 实体模型类设计<br>2. 数据库连接管理<br>3. 用户、好友、群组、消息的 DAO 实现<br>4. 图片头像工具类、文件工具类、日期工具类封装<br>5. 界面常量配置 | User.java, Group.java, Message.java, FriendRequest.java, ChatMessage.java (部分), DBConnection.java, UserDAO.java, FriendshipDAO.java, GroupDAO.java, MessageDAO.java, ImageUtil.java, FileUtil.java, DateUtil.java, Constants.java | 约 1500 |
 
 
 ---
@@ -158,11 +153,11 @@
 
 ### Git 提交记录截图
 
-| 成员 | 提交记录截图 |
-|------|--------------|
-| 孙元康 | ![组长提交记录](这是组长git提交记录的图片) |
-| 组员 A | ![组员A提交记录](这是组员Agit提交记录的图片) |
-| 组员 B | ![组员B提交记录](这是组员Bgit提交记录的图片) |
+#### 孙元康
+
+#### 王宇轩
+
+#### 王常兴
 
 ---
 
